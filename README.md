@@ -1,10 +1,10 @@
 ### 🙋‍♀️ About Me
 Hi, I'm Patrali!
 
-* **Data Storytelling:** Transforming complex data into actionable product and business insights.
-* **User Behavior:** Analyzing retention and growth patterns to drive decision-making.
-* **Analytics:** Turning numbers into compelling narratives.
-* **Location:** Based in West Bengal, India.
+* 🚀 **Data Storytelling:** Transforming complex data into actionable product and business insights.
+* 📈 **User Behavior:** Analyzing retention and growth patterns to drive decision-making.
+* 🧩 **Analytics:** Turning numbers into compelling narratives.
+* 📍 **Location:** Based in West Bengal, India.
 
 
 # 💻 Tech Stack:
