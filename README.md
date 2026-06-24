@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🙋‍♀️ Hi, I'm **Patrali**! <br>## <br>* 🚀 Bridging the gap between data and business decisions<br>* 📈 Uncovering user behavior, retention, and growth patterns<br>* 🧩 Finding the story behind the numbers<br>* 📍 Based in West Bengal, India<br>
+<br>🙋‍♀️Hi, I'm **Patrali**! <br>## <br>* 🚀 Bridging the gap between data and business decisions<br>* 📈 Uncovering user behavior, retention, and growth patterns<br>* 🧩 Finding the story behind the numbers<br>* 📍 Based in West Bengal, India<br>
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
