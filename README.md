@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 🌷 About Me
 <br>🙋‍♀️Hi, I'm **Patrali**! <br><br>* 🚀 Bridging the gap between data and business decisions<br>* 📈 Uncovering user behavior, retention, and growth patterns<br>* 🧩 Finding the story behind the numbers<br>* 📍 Based in West Bengal, India<br>
 
 <div data-importer="image" align="center">
